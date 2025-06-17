@@ -359,7 +359,7 @@ _Display images / photos_
 - [react-imgix](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 - [@frameright/react-image-display-control](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
 - [zoom-image](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
-
+[react-interactive-cube3d](https://github.com/AlirezaAzizi145/react-interactive-cube3d) - A customizable 3D cube component for React with support for images, videos, and HTML.
 ### Icons
 
 _Display icons / icon set / emojis_
